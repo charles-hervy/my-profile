@@ -1,3 +1,9 @@
+@import url("component/container.css");
+@import url("component/avatar.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+@import url("component/card.css");
+@import url("component/cards.css");
 body  {
 	background: #DFD8CA;
 	color: #575F7D;
